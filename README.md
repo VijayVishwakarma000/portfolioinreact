@@ -1,5 +1,7 @@
-dependencies : npm install  // to install dependencies
-run the application : npm run dev // 
+install dependencies : npm install   
+
+
+run the application : npm run dev  
 
 or
 
