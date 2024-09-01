@@ -64,22 +64,22 @@ const Skills = ()=>{
             color:"yellow",
             body:"JavaScript is a high-level, dynamic programming language commonly used to create interactive and dynamic content on websites."
         },
-        {
-            icon:<FaReact  color={"lightblue"}   size={90} />,
-            title:"React js",
-            size:90,
-            color:"lightblue",
-            body:"React JS is a popular JavaScript library for building user interfaces, particularly for single-page applications, by using a component-based architecture."
-        }
-        ,
-        {
-            icon:<TbBrandReactNative  color={"darkblue"}   size={90}/> ,
-            title:"react native",
-            size:90,
-            color:"darkblue",
-            body:"React Native is a framework for building mobile applications using JavaScript and React, allowing developers to create apps for both iOS and Android from a single codebase."
-        }
-        ,
+        // {
+        //     icon:<FaReact  color={"lightblue"}   size={90} />,
+        //     title:"React js",
+        //     size:90,
+        //     color:"lightblue",
+        //     body:"React JS is a popular JavaScript library for building user interfaces, particularly for single-page applications, by using a component-based architecture."
+        // }
+        // ,
+        // {
+        //     icon:<TbBrandReactNative  color={"darkblue"}   size={90}/> ,
+        //     title:"react native",
+        //     size:90,
+        //     color:"darkblue",
+        //     body:"React Native is a framework for building mobile applications using JavaScript and React, allowing developers to create apps for both iOS and Android from a single codebase."
+        // }
+        // ,
         {
             icon:<FaHtml5 color={"maroon"}   size={90} />,
             title:"html",
@@ -96,22 +96,22 @@ const Skills = ()=>{
             body:"CSS (Cascading Style Sheets) is a stylesheet language used to describe the presentation, layout, and design of HTML documents on the web."
         }
         ,
-        {
-            icon:<SiExpress color={"green"}   size={90} />            ,
-            title:"express js",
-            size:90,
-            color:"yellow",
-            body:"Express.js is a minimal and flexible Node.js web application framework that provides a robust set of features for building web and API servers."
-        }
-        ,
-        {
-            icon:<DiMongodb color={"green"}   size={90} />          ,
-            title:"monogo db",
-            size:90,
-            color:"green",
-            body:"MongoDB is a NoSQL, document-oriented database that stores data in flexible, JSON-like documents, allowing for scalable and high-performance applications."
-        }
-        ,
+        // {
+        //     icon:<SiExpress color={"green"}   size={90} />            ,
+        //     title:"express js",
+        //     size:90,
+        //     color:"yellow",
+        //     body:"Express.js is a minimal and flexible Node.js web application framework that provides a robust set of features for building web and API servers."
+        // }
+        // ,
+        // {
+        //     icon:<DiMongodb color={"green"}   size={90} />          ,
+        //     title:"monogo db",
+        //     size:90,
+        //     color:"green",
+        //     body:"MongoDB is a NoSQL, document-oriented database that stores data in flexible, JSON-like documents, allowing for scalable and high-performance applications."
+        // }
+        // ,
         {
             icon:<FaNodeJs color={"green"}   size={90} />          ,
             title:"",
