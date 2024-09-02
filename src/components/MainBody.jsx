@@ -18,7 +18,7 @@ const Home = ()=>{
 
             <div className='  '>
                     <h1   className='text-[3rem] max-[1600px]:text-[2.8rem]  max-[1500px]:text-[2.2rem] max-[500px]:text-[1.5rem] font-extrabold capitalize max-[500px]:leading-[30px] leading-[50px] max-[1000px]:text-[2rem]'>Hi,My name is Vijay Vishwakarma</h1>
-                    <h2 className='text-[2.2rem] max-[1600px]:text-[2rem] max-[1500px]:text-[1.8rem] max-[1000px]:text-[1.3rem] max-[500px]:text-[1.2rem]'>And I, am a  <ReactTyped className='uppercase text-[crimson]' strings={["UI/UX DESIGNER","Web Designer",]} loop typeSpeed={30} /> </h2>
+                    <h2 className='text-[2.2rem] max-[1600px]:text-[2rem] max-[1500px]:text-[1.8rem] max-[1000px]:text-[1.3rem] max-[500px]:text-[1.2rem]'>And I, am a  <ReactTyped className='uppercase text-[crimson]' strings={["UI/UX DESIGNER","Web Designer","Javascript Developer"]} loop typeSpeed={30} /> </h2>
                     <p className='text-justify text-lg  max-[1500px]:text-[16px] max-[1000px]:text-[14px] max-[1000px]:text-[12px] max-[1000px]:w-fit max-[1000px]:pr-10  max-[500px]:tracking-wider   max-[500px]:pr-5  max-[500px]:leading-[24px] w-3/5 '>
                         
 
