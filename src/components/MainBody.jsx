@@ -114,7 +114,7 @@ const Skills = ()=>{
         // ,
         {
             icon:<FaNodeJs color={"green"}   size={90} />          ,
-            title:"",
+            title:"Node JS",
             size:90,
             color:"green",
             body:"Node.js is a runtime environment that allows you to execute JavaScript code on the server side, enabling the development of scalable and high-performance network applications."
